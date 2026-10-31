@@ -1,6 +1,6 @@
 # Studio Suite: a room addition modeled in Python with CadQuery
 
-By Brandon Warrell (William Brandon Warrell), graphic designer in Palmetto, FL. Portfolio: [brandonwarrell.com](https://www.brandonwarrell.com)
+By Brandon Warrell, graphic designer in Sarasota–Bradenton, FL. Portfolio: [brandonwarrell.com](https://www.brandonwarrell.com)
 
 My family is planning a 15' × 21' addition that will become a studio suite: a bathroom, a kitchenette along one wall, a closet, two windows, two exterior doors and a pocket door. Instead of drawing it by hand, I modeled it in code so I can change one number and rebuild everything.
 
